@@ -1,2 +1,2 @@
-# Y-lan-Oyunu
+# Yilan-Oyunu
 Python İle yılan oyunu
